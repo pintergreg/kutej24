@@ -4,8 +4,8 @@ author: Gergő Pintér^1^ és Balázs Lengyel^1,2,3^
 date: "2024. szeptember 27."
 institute: >-
     ^1^ANETI Lab, Budapesti Corvinus Egyetem<br>
-    ^2^ANETI Lab, HUN-REN Center for Economic and Regional Sciences<br>
-    ^3^Institute for Data Analytics and Information Systems, Corvinus University of Budapest
+    ^2^ANETI Lab, HUN-REN Közgazdaság- és Regionális Tudományi Kutatóközpont<br>
+    ^3^Adatelemzés és Informatika Intézet, Budapesti Corvinus Egyetem
 
 title-slide-attributes:
     data-background-color: "#181d37"
