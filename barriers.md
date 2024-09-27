@@ -1,6 +1,6 @@
 ---
 title: Az úthálózat összekötő és elválasztó hatása
-author: Gergő Pintér^1^ és Balázs Lengyel^1,2,3^
+author: Pintér Gergő^1^ és Lengyel Balázs^1,2,3^
 date: "2024. szeptember 27."
 institute: >-
     ^1^ANETI Lab, Budapesti Corvinus Egyetem<br>
