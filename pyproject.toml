@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "kutej24"
+version = "0.1.0"
+description = ""
+authors = ["pintergreg <pintergreg@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.12"
+matplotlib = ">=3.9"
+networkx = ">=3.3"
+geopandas = "^1.0"
+pyaml = ">=24.7"
+osmnx = "^2.0"
+seaborn = "^0.13"
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.29"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

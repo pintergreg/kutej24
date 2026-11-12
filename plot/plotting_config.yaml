@@ -1,0 +1,10 @@
+formats:
+  - png
+  # - svg
+metadata:
+  Author: "Gergő Pintér"
+  CreationDate: null
+colors:
+    land: "#eee8aa36"
+    street: "#d2b48c66"
+    darkblue: "#191970"
