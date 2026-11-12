@@ -5,3 +5,4 @@ barriers.html
 data/*
 
 cache
+plot/cache/*
